@@ -1003,6 +1003,7 @@ h3.title span {
     float: left;
     width: 22%;
     padding:0;
+    
 }
 .rsidebar-top{
     border: 1px solid #E8E8E8;
@@ -1011,6 +1012,7 @@ h3.title span {
     -moz-box-shadow: 0px 0px 5px 1px #777;
     box-shadow: 0px 0px 5px 1px #777;
     box-shadow: 0px 0px 5px 1px #777;
+    background: #fff;
 }
 .product-model-sec {
     float: right;
@@ -1199,7 +1201,7 @@ input#amount {
     width: 100%;
     display: block;
     position: relative;
-    color: #fff;
+    color: #000;
     font-size: 1em;
     font-weight: 400;
     text-decoration: none;
@@ -1580,7 +1582,7 @@ h4.panel-title a {
 /*--//login-page--*/
 /*--contact--*/
 .address {
-    background: url(../images/1.jpg)no-repeat;
+    background: url(../images/bg.jpg)no-repeat;
     background-size: cover;
     padding: 5em 0;
 }
